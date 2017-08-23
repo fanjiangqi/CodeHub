@@ -1,0 +1,12 @@
+{
+"server":"X.X.X.X",
+"local_address":"127.0.0.1",
+"local_port":1080,
+"port_password":{
+	 "8378":"password",
+     "8379":"password"
+     },
+"timeout":300,
+"method":"aes-256-cfb",
+"fast_open":false
+}
